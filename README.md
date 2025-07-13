@@ -15,3 +15,4 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that intelligently answers us
 - [Loan Approval Prediction Dataset – Kaggle](https://www.kaggle.com/datasets/sonalisingh1411/loan-approval-prediction)
 
 ---
+> ✅ Note: API key and `.env` file were excluded for security. App tested successfully in Colab using ngrok and OpenAI API.
